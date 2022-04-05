@@ -48,7 +48,7 @@
    - Возраст
    - Опыт работы
  
- ![Er-модель](https://github.com/KirillShumkov/Kiril_l1001/blob/main/Снимок%20экрана%202022-04-05%20в%2015.59.19.png) 
+ ![Er-модель](https://github.com/KirillShumkov/Kiril_l1001/blob/main/image.png) 
 
 | Класс | Атрибуты | Значения |
 |-------|----------|----------|
