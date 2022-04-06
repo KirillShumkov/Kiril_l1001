@@ -47,7 +47,7 @@
    - Ид должности
    - Опыт работы
  
- ![Er-модель](https://github.com/KirillShumkov/Kiril_l1001/commit/b818ba45cc648dde802a20bd596bda51682b59b8) 
+ ![Er-модель](https://github.com/KirillShumkov/Kiril_l1001/blob/main/Снимок%20экрана%202022-04-06%20в%2020.15.06.png) 
 
 | Класс | Атрибуты | Значения |
 |-------|----------|----------|
