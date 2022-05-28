@@ -1,0 +1,6 @@
+/Users/kirillsumkov/ООП/KirillOOP/KirillOOP/bin/Debug/KirillOOP.exe
+/Users/kirillsumkov/ООП/KirillOOP/KirillOOP/bin/Debug/KirillOOP.pdb
+/Users/kirillsumkov/ООП/KirillOOP/KirillOOP/obj/Debug/KirillOOP.csproj.AssemblyReference.cache
+/Users/kirillsumkov/ООП/KirillOOP/KirillOOP/obj/Debug/KirillOOP.csproj.CoreCompileInputs.cache
+/Users/kirillsumkov/ООП/KirillOOP/KirillOOP/obj/Debug/KirillOOP.exe
+/Users/kirillsumkov/ООП/KirillOOP/KirillOOP/obj/Debug/KirillOOP.pdb
